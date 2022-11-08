@@ -9,7 +9,8 @@ Stack:
 
 Links:   
 https://github.com/clebersimm/nlwcopamobile   
-https://github.com/clebersimm/nlwserver 
+https://github.com/clebersimm/nlwserver   
+https://github.com/clebersimm/nlwweb   
 
 
 npx tailwindcss init -p   
